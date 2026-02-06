@@ -140,4 +140,6 @@ http://127.0.0.1:5000/
 ## ⭐ If you like this project
 
 Give it a star ⭐ and feel free to fork or contribute!
+<img width="994" height="455" alt="image" src="https://github.com/user-attachments/assets/4ab1c17c-1fea-431c-a96c-1975be66f2ae" />
+<img width="994" height="571" alt="image" src="https://github.com/user-attachments/assets/65569130-24e4-4a5b-a9cc-d3d1b4611550" />
 
